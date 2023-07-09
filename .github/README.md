@@ -36,3 +36,11 @@ A Coffee Delivery foi um desafio criado pela **Rockeseat** de desenvolver uma ap
 - Formulário para o usuário preencher o seu endereço
 - Exibir o total de itens no carrinho no Header
 - Exibir o valor total da soma de itens no carrinho multiplicados pelo valor
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Gustavo Favero :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
