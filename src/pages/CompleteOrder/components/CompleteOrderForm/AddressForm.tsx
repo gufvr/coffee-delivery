@@ -41,7 +41,7 @@ export function AddressForm() {
         className="complement"
         {...register("complement")}
         error={errors.complement?.message}
-        rightText="opcional"
+        rightText="Opcional"
       />
       <Input
         placeholder="Bairro"
