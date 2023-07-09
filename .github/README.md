@@ -1,7 +1,7 @@
 <h1 align="center"> Coffee Delivery </h1>
 
 <p align="center">
-Trabalho exclusivo a assinantes do plano Ignite, promovido pela **Rocketseat** para ensino de tecnologias WEB.
+Trabalho exclusivo a assinantes do plano Ignite, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
