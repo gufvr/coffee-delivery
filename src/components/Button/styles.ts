@@ -11,6 +11,7 @@ export const ButtonContainer = styled.button`
   text-transform: uppercase;
   transition: 0.4s;
   line-height: 1.3rem;
+  margin-top: 0.7rem;
 
   &:disabled {
     opacity: 0.7;
