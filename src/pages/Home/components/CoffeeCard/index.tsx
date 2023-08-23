@@ -86,7 +86,3 @@ export function CoffeeCard({ coffee }: CoffeeProps) {
     </CoffeeCardContainer>
   )
 }
-
-function addCoffeeToCart(coffeeToAdd: { quantity: number; id: number; tags: string[]; name: string; description: string; photo: string; price: number; }) {
-  throw new Error("Function not implemented.");
-}
