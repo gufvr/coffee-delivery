@@ -9,7 +9,6 @@ import {
 
 import { ShoppingCart } from 'phosphor-react'
 
-import expressCoffee from '../../../../assets/coffees/express-coffee.svg'
 import { RegularText, TitleText } from "../../../../components/Typography";
 import { QuantityInput } from "../../../../components/QuantityInput";
 import { formatMoney } from "../../../../utils/formatMoney";

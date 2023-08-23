@@ -3,9 +3,7 @@ import { OurCoffeesPage } from "./components/OurCoffees";
 import { HomeContainer } from "./styles";
 import { UseCart } from './../../hooks/useCart';
 
-export function HomePage() {
-  const { cartItems } = UseCart();
-  
+export function HomePage() {  
   return (
     <HomeContainer>
       <Intro />
