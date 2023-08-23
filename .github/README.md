@@ -37,7 +37,20 @@ A Coffee Delivery foi um desafio criado pela **Rockeseat** de desenvolver uma ap
 - Exibir o total de itens no carrinho no Header
 - Exibir o valor total da soma de itens no carrinho multiplicados pelo valor
 
+Relembrando conceitos ensinados pela plataforma, tal como:
+
+- Estados
+- ContextAPI
+- LocalStorage
+- Imutabilidade do estado
+- Listas e chaves no ReactJS
+- Propriedades
+- Componentização
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Gustavo Favero :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
